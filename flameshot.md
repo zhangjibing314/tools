@@ -1,3 +1,6 @@
+---
+title: flameshot
+---
 [toc]
 
 
@@ -14,8 +17,8 @@ sudo apt install flameshot
 ## 常用快捷操作
 * 截图  
 在ubuntu系统上设置截图快捷键
-![](./ubuntu-shotkey.png)
-![](./ubunt-add-shotkey.png)
+![](./flameshot/ubuntu-shotkey.png)
+![](./flameshot/ubunt-add-shotkey.png)
 * 置顶  
 可在clameshot的配置选项中配置，笔者配置为`<space>`  
 * 置顶后取消  
